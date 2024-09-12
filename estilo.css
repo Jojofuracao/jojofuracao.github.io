@@ -46,3 +46,23 @@ img{
 .galeria img:hover{
 transform: scale(1.05);
 }
+
+h2 {
+    color: rgb(76, 137, 116);
+}
+
+.page-bio{
+    margin-left: 25px;
+}
+
+.social-medias img{
+    
+    height: 100px;
+    border-radius: 50px;
+    transition: transform 0.2s;
+    padding: 20px;
+}
+
+.social-medias img:hover{
+    transform: scale(1.05);
+}
