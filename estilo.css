@@ -53,6 +53,12 @@ h2 {
 
 .page-bio{
     margin-left: 25px;
+    
+}
+
+p{
+    color: rgb(87, 152, 130);
+    text-decoration: none;   
 }
 
 .social-medias img{
@@ -66,3 +72,12 @@ h2 {
 .social-medias img:hover{
     transform: scale(1.05);
 }
+
+.page-bio p{
+    
+    padding: 0% ;
+    margin: 0%;
+    background-color: #caffd0; 
+    font-family: "Matemasie";
+}
+
