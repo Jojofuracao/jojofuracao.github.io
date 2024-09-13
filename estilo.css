@@ -76,8 +76,25 @@ p{
 .page-bio p{
     
     padding: 0% ;
-    margin: 0%;
+    margin-right: 10%;
+    text-align: justify;
     background-color: #caffd0; 
-    font-family: "Matemasie";
+    font-family: "Dosis";
 }
 
+    .projects img{
+        width: 30%;
+        height: 360px;
+        border-radius: 50px;
+        transition: transform 0.2s;   
+
+    }
+
+    .projects img:hover{
+        transform: scale(1.05);  
+    }
+
+    .projects{
+        display: block;
+        gap: 80px;
+    }
